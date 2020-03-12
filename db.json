@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "comments": [
+    {
+      "theme": "callback form",
+      "tel": "8(888) 888-888-88"
+    },
+    {
+      "theme": "contact form",
+      "email": "email@email.ru"
+    }
+  ]
 }
