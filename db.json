@@ -2,30 +2,30 @@
   "dirtyData" : [
     {
       "label": "Начинаю учить React",
-      "important": "true",
-      "like": "true"
+      "important": true,
+      "like": true
     },
 
     {
       "label": "Продолжаю учить React",
-      "important": "false",
-      "like": "false"
+      "important": false,
+      "like": false
     },
     
     {
-      "sdsdsds": "123"
+      "sdsdsds": 123
     },
 
     {
       "label": "Ещё долго можно учить React",
-      "important": "false",
-      "like": "true"
+      "important": false,
+      "like": true
     },
 
     {
       "label": "Мне нравится учить React",
-      "important": "false",
-      "like": "false"
+      "important": false,
+      "like": false
     }
   ]
 }
