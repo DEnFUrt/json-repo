@@ -1,21 +1,31 @@
 {
-  "posts": [
+  "dirtyData" : [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "comments": [
-    {
-      "theme": "callback form",
-      "tel": "8(888) 888-888-88"
+      "label": "Начинаю учить React",
+      "important": "true",
+      "like": "true"
     },
+
     {
-      "theme": "contact form",
-      "email": "email@email.ru"
+      "label": "Продолжаю учить React",
+      "important": "false",
+      "like": "false"
+    },
+    
+    {
+      "sdsdsds": "123"
+    },
+
+    {
+      "label": "Ещё долго можно учить React",
+      "important": "false",
+      "like": "true"
+    },
+
+    {
+      "label": "Мне нравится учить React",
+      "important": "false",
+      "like": "false"
     }
   ]
 }
