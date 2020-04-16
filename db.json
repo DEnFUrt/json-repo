@@ -3,13 +3,15 @@
     {
       "label": "Начинаю учить React",
       "important": true,
-      "like": true
+      "like": true,
+      "data": "10.10.2020 10:39"
     },
 
     {
       "label": "Продолжаю учить React",
       "important": false,
-      "like": false
+      "like": false,
+      "data": "10.10.2020 10:39"
     },
     
     {
@@ -19,13 +21,22 @@
     {
       "label": "Ещё долго можно учить React",
       "important": false,
-      "like": true
+      "like": true,
+      "data": "10.10.2020 10:39"
     },
 
     {
       "label": "Мне нравится учить React",
       "important": false,
-      "like": false
+      "like": false,
+      "data": "10.10.2020 10:39"
+    },
+    
+    {
+      "label": "Мне нравится учить Reactwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "important": false,
+      "like": true,
+      "data": "10.10.2020 10:39"
     }
   ]
 }
