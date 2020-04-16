@@ -4,14 +4,14 @@
       "label": "Начинаю учить React",
       "important": true,
       "like": true,
-      "data": "10.10.2020 10:39"
+      "dataStamp": "10.10.2020 10:39"
     },
 
     {
       "label": "Продолжаю учить React",
       "important": false,
       "like": false,
-      "data": "10.10.2020 10:39"
+      "dataStamp": "10.10.2020 10:39"
     },
     
     {
@@ -22,21 +22,21 @@
       "label": "Ещё долго можно учить React",
       "important": false,
       "like": true,
-      "data": "10.10.2020 10:39"
+      "dataStamp": "10.10.2020 10:39"
     },
 
     {
       "label": "Мне нравится учить React",
       "important": false,
       "like": false,
-      "data": "10.10.2020 10:39"
+      "dataStamp": "10.10.2020 10:39"
     },
     
     {
       "label": "Мне нравится учить Reactww wwwwwwwwwwwwwww wwwwwww wwwwwwwww wwwwwwwww wwwwwwww wwwwwww www wwwww",
       "important": false,
       "like": true,
-      "data": "10.10.2020 10:39"
+      "dataStamp": "10.10.2020 10:39"
     }
   ]
 }
