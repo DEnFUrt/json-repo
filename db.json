@@ -4,14 +4,16 @@
       "label": "Начинаю учить React",
       "important": true,
       "like": true,
-      "dateStamp": "10.10.2020 10:39"
+      "dateStamp": "10.10.2020 10:39",
+      "edit": false
     },
 
     {
       "label": "Продолжаю учить React",
       "important": false,
       "like": false,
-      "dateStamp": "10.10.2020 10:39"
+      "dateStamp": "10.10.2020 10:39",
+      "edit": true
     },
     
     {
@@ -23,7 +25,7 @@
       "important": false,
       "like": true,
       "dateStamp": "10.10.2020 10:39",
-      "edit":true
+      "edit": false
     },
 
     {
@@ -31,7 +33,7 @@
       "important": false,
       "like": false,
       "dateStamp": "10.10.2020 10:39",
-      "edit":true
+      "edit": true
     },
     
     {
@@ -39,7 +41,7 @@
       "important": false,
       "like": true,
       "dateStamp": "10.10.2020 10:39",
-      "edit":false
+      "edit": false
     }
   ]
 }
