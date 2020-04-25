@@ -22,21 +22,24 @@
       "label": "Ещё долго можно учить React",
       "important": false,
       "like": true,
-      "dateStamp": "10.10.2020 10:39"
+      "dateStamp": "10.10.2020 10:39",
+      "edit":true
     },
 
     {
       "label": "Мне нравится учить React",
       "important": false,
       "like": false,
-      "dateStamp": "10.10.2020 10:39"
+      "dateStamp": "10.10.2020 10:39",
+      "edit":true
     },
     
     {
       "label": "Мне все еще нравится нравится учить React",
       "important": false,
       "like": true,
-      "dateStamp": "10.10.2020 10:39"
+      "dateStamp": "10.10.2020 10:39",
+      "edit":false
     }
   ]
 }
